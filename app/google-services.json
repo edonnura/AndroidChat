@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299385227881",
+    "firebase_url": "https://fir-f434b.firebaseio.com",
+    "project_id": "fir-f434b",
+    "storage_bucket": "fir-f434b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299385227881:android:db191f561d20fc4f",
+        "android_client_info": {
+          "package_name": "com.fiek.ushtrime.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299385227881-eokjgdqpqampgvcsj58hfbv4tpadeibg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxazZjWMeki5T2SbklsT5LuctdoKMqU1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
